@@ -1,30 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Internship @Axoon\\InternshipTask\\",
+  "WorkspaceRootPath": "E:\\Internship @Axoon\\Taks 1,2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\internshiptask\\firstinternshiptask\\middlewares\\errorhandlingmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\middlewares\\errorhandlingmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\taks 1,2\\firstinternshiptask\\models\\currencyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\models\\currencyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\internshiptask\\firstinternshiptask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\internshiptask\\firstinternshiptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\taks 1,2\\firstinternshiptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\internshiptask\\firstinternshiptask\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\taks 1,2\\firstinternshiptask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\taks 1,2\\firstinternshiptask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\taks 1,2\\firstinternshiptask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\taks 1,2\\firstinternshiptask\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\internshiptask\\firstinternshiptask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\taks 1,2\\firstinternshiptask\\middlewares\\errorhandlingmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\middlewares\\errorhandlingmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\internshiptask\\firstinternshiptask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\taks 1,2\\firstinternshiptask\\controllers\\externalapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\controllers\\externalapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\taks 1,2\\firstinternshiptask\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|e:\\internship @axoon\\taks 1,2\\firstinternshiptask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1DA690-29BB-4A0C-86A3-7759775E3C31}|FirstInternshipTask\\FirstInternshipTask.csproj|solutionrelative:firstinternshiptask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,86 +50,139 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FirstInternshipTask\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FirstInternshipTask\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:15:02.206Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "FirstInternshipTask\\Controllers\\CurrencyController.cs",
+              "ToolTip": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "FirstInternshipTask\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:50:41.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyRate.cs",
+              "DocumentMoniker": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Models\\CurrencyRate.cs",
+              "RelativeDocumentMoniker": "FirstInternshipTask\\Models\\CurrencyRate.cs",
+              "ToolTip": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Models\\CurrencyRate.cs",
+              "RelativeToolTip": "FirstInternshipTask\\Models\\CurrencyRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:45:50.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExternalApiController.cs",
+              "DocumentMoniker": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Controllers\\ExternalApiController.cs",
+              "RelativeDocumentMoniker": "FirstInternshipTask\\Controllers\\ExternalApiController.cs",
+              "ToolTip": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Controllers\\ExternalApiController.cs",
+              "RelativeToolTip": "FirstInternshipTask\\Controllers\\ExternalApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T06:44:00.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\appsettings.json",
+              "DocumentMoniker": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\appsettings.json",
               "RelativeDocumentMoniker": "FirstInternshipTask\\appsettings.json",
-              "ToolTip": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\appsettings.json",
+              "ToolTip": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\appsettings.json",
               "RelativeToolTip": "FirstInternshipTask\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-12T11:30:28.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ErrorHandlingMiddlewares.cs",
-              "DocumentMoniker": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\Middlewares\\ErrorHandlingMiddlewares.cs",
+              "DocumentMoniker": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Middlewares\\ErrorHandlingMiddlewares.cs",
               "RelativeDocumentMoniker": "FirstInternshipTask\\Middlewares\\ErrorHandlingMiddlewares.cs",
-              "ToolTip": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\Middlewares\\ErrorHandlingMiddlewares.cs",
+              "ToolTip": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Middlewares\\ErrorHandlingMiddlewares.cs",
               "RelativeToolTip": "FirstInternshipTask\\Middlewares\\ErrorHandlingMiddlewares.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T10:40:50.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\Program.cs",
+              "DocumentMoniker": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Program.cs",
               "RelativeDocumentMoniker": "FirstInternshipTask\\Program.cs",
-              "ToolTip": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\Program.cs",
+              "ToolTip": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Program.cs",
               "RelativeToolTip": "FirstInternshipTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T18:36:33.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\Models\\Product.cs",
+              "DocumentMoniker": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Models\\Product.cs",
               "RelativeDocumentMoniker": "FirstInternshipTask\\Models\\Product.cs",
-              "ToolTip": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\Models\\Product.cs",
+              "ToolTip": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Models\\Product.cs",
               "RelativeToolTip": "FirstInternshipTask\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T18:19:47.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProductContext.cs",
-              "DocumentMoniker": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\Data\\ProductContext.cs",
+              "DocumentMoniker": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Data\\ProductContext.cs",
               "RelativeDocumentMoniker": "FirstInternshipTask\\Data\\ProductContext.cs",
-              "ToolTip": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\Data\\ProductContext.cs",
+              "ToolTip": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Data\\ProductContext.cs",
               "RelativeToolTip": "FirstInternshipTask\\Data\\ProductContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T18:21:09.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "FirstInternshipTask\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\Internship @Axoon\\InternshipTask\\FirstInternshipTask\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Internship @Axoon\\Taks 1,2\\FirstInternshipTask\\Controllers\\ProductController.cs",
               "RelativeToolTip": "FirstInternshipTask\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T18:50:59.051Z",
               "EditorCaption": ""

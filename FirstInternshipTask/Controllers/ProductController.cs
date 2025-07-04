@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ProductApi.Data;
 using ProductApi.Model;
+using System.Security.Claims;
 
 namespace ProductApi.Controllers
 {
@@ -22,20 +24,6 @@ namespace ProductApi.Controllers
                     new Product { Name = "Keyboard", Price = 50, Quantity = 200 }
                 );
                 _context.SaveChanges();
-            }
-        }
-
-        [HttpGet("test-db")]
-        public IActionResult TestDbConnection()
-        {
-            try
-            {
-                _context.Database.CanConnect();
-                return Ok("Database connection successful");
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, $"Database connection failed: {ex.Message}");
             }
         }
 
@@ -96,6 +84,24 @@ namespace ProductApi.Controllers
             await _context.SaveChangesAsync();
 
             return NoContent(); 
+        }
+
+        // Authorization 
+        [Authorize]
+        [HttpGet("profile")]
+        public IActionResult Profile()
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            return Ok(new { message = $"Welcome User {userId}" });
+        }
+
+
+        // Role
+        [Authorize(Roles = "admin")]
+        [HttpGet("admin/users")]
+        public IActionResult GetAllUsers()
+        {
+            return Ok(_context.Users.ToList());
         }
 
     }

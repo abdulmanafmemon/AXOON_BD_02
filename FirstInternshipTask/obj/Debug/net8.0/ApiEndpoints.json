@@ -1,5 +1,25 @@
 [
   {
+    "ContainingType": "FirstInternshipTask.Controllers.CurrencyController",
+    "Method": "GetCurrencyRates",
+    "RelativePath": "api/Currency/rates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstInternshipTask.Controllers.ExternalApiController",
+    "Method": "GetCurrencyRates",
+    "RelativePath": "api/ExternalApi/currency",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ProductApi.Controllers.ProductsController",
     "Method": "CreateProduct",
     "RelativePath": "api/Products",
@@ -90,8 +110,18 @@
   },
   {
     "ContainingType": "ProductApi.Controllers.ProductsController",
-    "Method": "TestDbConnection",
-    "RelativePath": "api/Products/test-db",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Products/admin/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductApi.Controllers.ProductsController",
+    "Method": "Profile",
+    "RelativePath": "api/Products/profile",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -110,6 +140,48 @@
         "Name": "swaggerVersion",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstInternshipTask.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FirstInternshipTask.DTO.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstInternshipTask.Controllers.UserController",
+    "Method": "Profile",
+    "RelativePath": "User/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstInternshipTask.Controllers.UserController",
+    "Method": "Signup",
+    "RelativePath": "User/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "FirstInternshipTask.DTO.UserSignupDto",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

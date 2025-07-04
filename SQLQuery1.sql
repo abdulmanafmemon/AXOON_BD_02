@@ -7,5 +7,11 @@ CREATE TABLE Products (
     Price DECIMAL(10,2),
     Quantity INT
 );
+DBCC CHECKIDENT ('Products', RESEED, 0);
 
 select * from products
+delete from products
+
+ALTER TABLE Users ADD Role VARCHAR(50) NOT NULL DEFAULT 'user';
+
+SELECT * FROM dbo.CurrencyRates;
